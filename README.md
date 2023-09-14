@@ -2,5 +2,4 @@
 
 This is our final project for Natural Language Processing. 
 
-
-[Sarcasm Detection Poster - Final Version.pdf](https://github.com/schredes/NLP-Final/files/12614117/Sarcasm.Detection.Poster.-.Final.Version.pdf)
+<img width="1025" alt="nlpFinalShowcase" src="https://github.com/schredes/NLP-Final/assets/90870685/01e0e0ac-cc60-4aaf-9846-462f8298de50">
